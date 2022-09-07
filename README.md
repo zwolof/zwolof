@@ -40,14 +40,19 @@
 	</div>
 </p>
 </div>
-<div style="display:flex; flex-direction:row;justify-content:flex-start;">
-	<a href="#zwolof-title">
-		<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
-	</a>
-	<a href="#zwolof-title">
+
+<table>
+	<td>
+		<a href="#zwolof-title">
+			<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
+		</a>
+	</td>
+	<td>
+		<a href="#zwolof-title">
 		<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
 	</a>
-</div>
+	</td>
+</table>
 
 
 <br>
