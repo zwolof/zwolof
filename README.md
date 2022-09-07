@@ -14,7 +14,7 @@
 </p>
 
 <table>
-	<td>
+	<td style="width:50%">
 	<h2>My projects</h2>
 	
 <p align="left">
@@ -37,7 +37,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 	</td>
-	<td>
+	<td style="width:50%">
 		<div style="display:flex; flex-direction:column; align-items:center;">
 			<a href="#zwolof-title">
 				<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
