@@ -15,7 +15,7 @@
 
 <table>
 	<td style="width:50%">
-	<h2>My projects</h2>
+	<h2 align="left" id="zwolof-tech">Favorite Tech</h2>
 	
 <p align="left">
 	<div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -28,7 +28,8 @@
 		</a> -->
 	</div>
 </p>
-<h2>About me</h2>
+<h2 align="left" id="zwolof-tech">Favorite Tech</h2>
+
 
 - :office: &nbsp;I'm currently working at **[JoinByte LLC]**
 - :seedling: &nbsp;I’m currently learning **C++**
@@ -50,8 +51,6 @@
 <table>
 
 
-<br>
-<br>
 <br>
 
 <h2 align="left" id="zwolof-tech">Favorite Tech</h2>
