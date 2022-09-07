@@ -1,5 +1,5 @@
 <h1 align="left" id="zwolof-title">:wave: Hello there! I'm zwolof</h1>
-<h3 align="left">I am a versatilist, doing various fun projects</h3>
+<h3 align="left">I am a versatilist, doing fun projects in my sparetime</h3>
 
 <p align="left">
 	<a href="https://github.com/zwolof/zwolof">
@@ -13,9 +13,20 @@
 	</a>
 </p>
 
-<table>
-	<td style="width:50%">
-	<h2 align="left" id="zwolof-tech">Favorite Tech</h2>
+<div style="display:flex; flex-direction:row;">
+<div>
+
+
+- :office: &nbsp;I'm currently working at **[JoinByte LLC]**
+- :seedling: &nbsp;I’m currently learning **C++**
+- :speech_balloon: &nbsp;I like to talk about **Programming** and **Tech**
+- :mailbox: &nbsp;Ask me anything on my **[Issues Page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+</div>
+	
+</div>
+<div>
 	
 <p align="left">
 	<div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -28,27 +39,15 @@
 		</a> -->
 	</div>
 </p>
-<h2 align="left" id="zwolof-tech">Favorite Tech</h2>
-
-
-- :office: &nbsp;I'm currently working at **[JoinByte LLC]**
-- :seedling: &nbsp;I’m currently learning **C++**
-- :speech_balloon: &nbsp;I like to talk about **Programming** and **Tech**
-- :mailbox: &nbsp;Ask me anything on my **[Issues Page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
-	</td>
-	<td style="width:50%">
-		<div style="display:flex; flex-direction:column; align-items:center;">
-			<a href="#zwolof-title">
-				<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
-			</a>
-			<a href="#zwolof-title">
-				<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
-			</a>
-		</div>
-	</td>
-<table>
+</div>
+<div style="display:flex; flex-direction:row;">
+	<a href="#zwolof-title">
+		<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
+	</a>
+	<a href="#zwolof-title">
+		<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
+	</a>
+</div>
 
 
 <br>
