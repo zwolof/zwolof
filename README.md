@@ -42,16 +42,18 @@
 </div>
 
 <table>
-	<td>
-		<a href="#zwolof-title">
-			<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
+	<tbody style="border: 0">
+		<td>
+			<a href="#zwolof-title">
+				<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
+			</a>
+		</td>
+		<td>
+			<a href="#zwolof-title">
+			<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
 		</a>
-	</td>
-	<td>
-		<a href="#zwolof-title">
-		<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
-	</a>
-	</td>
+		</td>
+	</tbody>
 </table>
 
 
