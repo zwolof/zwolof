@@ -52,10 +52,6 @@
 
 <br>
 
-<h2 align="left" id="zwolof-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
 <table>
 	<tr>
 		<td align="center" width="96">
@@ -166,7 +162,7 @@
 			<a href="#zwolof-tech" >
 				<img src="./img/tech/aws-original.svg" width="48" height="48" alt="Amazon Web Services" />
 			</a>
-			<br>Amazon Web Services
+			<br>AWS
 		</td>
 	</tr>
 </table>
