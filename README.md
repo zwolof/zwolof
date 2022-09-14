@@ -17,7 +17,7 @@
 <div>
 
 
-- :office: &nbsp;I'm currently working at **[JoinByte LLC]**
+- :office: &nbsp;I'm currently working as a QA Engineer at **[Alstom]**
 - :seedling: &nbsp;I’m currently learning **C++**
 - :speech_balloon: &nbsp;I like to talk about **Programming** and **Tech**
 - :mailbox: &nbsp;Ask me anything on my **[Issues Page]**
@@ -178,6 +178,6 @@
 
 <!-- links -->
 
-[JoinByte LLC]: https://joinbye.com "JoinByte Website"
+[Alstom]: https://www.alstom.com "Alstom"
 [Issues Page]: https://github.com/zwolof/zwolof/issues "zwolof/issues"
 [LinkedIn]: https://www.linkedin.com/in/carl-ising "LinkedIn"
