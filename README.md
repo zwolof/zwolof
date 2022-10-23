@@ -17,8 +17,8 @@
 <div>
 
 
-- :office: &nbsp;I'm currently working as a QA Engineer at **[Alstom]**
-- :seedling: &nbsp;I’m currently learning **C++**
+- :office: &nbsp;I'm currently working as a Fulltime Freelancer!
+- :seedling: &nbsp;I’m currently learning **Rust**
 - :speech_balloon: &nbsp;I like to talk about **Programming** and **Tech**
 - :mailbox: &nbsp;Ask me anything on my **[Issues Page]**
 
