@@ -26,18 +26,7 @@
 	
 </div>
 <div>
-	
-<p align="left">
-	<div style="display:flex; flex-direction:column; align-items:flex-start;">
-		<a href="https://efrag.gg/">
-			<img src="./img/brands/efrag.png" width="256" alt="efrag.gg"  />
-		</a>
-		<!-- <img src="./img/brands/aphelium.png" width="256" alt="aphelium hns"  /> -->
-		<!-- <a href="https://powerfps.com/">
-			<img src="./img/brands/nodejs-original.svg" alt="zwolof" align="right" />
-		</a> -->
-	</div>
-</p>
+
 </div>
 
 <table>
