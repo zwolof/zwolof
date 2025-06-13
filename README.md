@@ -29,22 +29,17 @@
 
 </div>
 
-<table>
-	<tbody>
-		<tr style="border: 0">
-			<td style="border: 0">
-				<a href="#zwolof-title">
-					<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/overview.svg" alt="zwolof" align="right" />
-				</a>
-			</td>
-			<td style="border: 0">
-				<a href="#zwolof-title">
-				<img src="https://raw.githubusercontent.com/zwolof/github-stats-transparent/output/generated/languages.svg" alt="zwolof" align="right" />
-			</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 <br>
